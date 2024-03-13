@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChatBot/static/css/main.132f42b0.css",
+    "main.js": "/ChatBot/static/js/main.7d151e6a.js",
+    "static/js/453.ad6eb26e.chunk.js": "/ChatBot/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/ChatBot/index.html",
+    "main.132f42b0.css.map": "/ChatBot/static/css/main.132f42b0.css.map",
+    "main.7d151e6a.js.map": "/ChatBot/static/js/main.7d151e6a.js.map",
+    "453.ad6eb26e.chunk.js.map": "/ChatBot/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132f42b0.css",
+    "static/js/main.7d151e6a.js"
+  ]
+}
