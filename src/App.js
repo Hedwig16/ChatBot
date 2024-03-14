@@ -11,7 +11,7 @@ function App() {
         language-code="en"
         max-query-length="-1"
         allow-feedback="all">
-        <df-messenger-chat-bubble chat-title="darwinbot"></df-messenger-chat-bubble>
+        <df-messenger-chat-bubble chat-title="HR-Assistant"></df-messenger-chat-bubble>
       </df-messenger>
     </div>
   );
