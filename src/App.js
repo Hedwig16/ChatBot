@@ -1,6 +1,5 @@
-
 import './App.css';
- 
+
 function App() {
   return (
     <div className="App">
@@ -11,10 +10,12 @@ function App() {
         language-code="en"
         max-query-length="-1"
         allow-feedback="all">
-        <df-messenger-chat-bubble chat-title="HR-Assistant"></df-messenger-chat-bubble>
+        <df-messenger-chat-bubble  chat-title="GAVS HR-Assistant">
+          
+        </df-messenger-chat-bubble>
       </df-messenger>
     </div>
   );
 }
- 
+
 export default App;
